@@ -27,13 +27,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=![demo](https://user-images.githubusercontent.com/58011593/153551943-51707a22-0b77-4305-af87-827c41c961cf.gif) width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Adobe Primier Pro.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I haven't really faced any challenges but I really enjoyed building this app. I loved developing the UI for this app.
 
 ## Open-source libraries used
 
