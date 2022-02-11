@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shrijani\'stagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">pH7Pe28Z79W7hwNecz07LOYa1TL0pR02md2d8R6c</string>
+    <string name="back4app_client_key">wRKmU5UULo7EjbSMtTIjmErI7YT6nKmsEaU2SXLw</string>
+</resources>
