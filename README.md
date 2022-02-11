@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![demo](https://user-images.githubusercontent.com/58011593/153551943-51707a22-0b77-4305-af87-827c41c961cf.gif) width='' alt='Video Walkthrough' />
+<img src=![demo](https://user-images.githubusercontent.com/58011593/153551943-51707a22-0b77-4305-af87-827c41c961cf.gif) width='' />
 
 GIF created with Adobe Primier Pro.
 
